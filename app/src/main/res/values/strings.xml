@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Project2</string>
+    <string name="dis">Disliked:</string>
+    <string name="like">Liked:</string>
+    <string name="chooseL">Вам понравилась картинка! :)</string>
+    <string name="chooseD">Вам не понравилась картинка! :(</string>
+    <string name="button">Подтвердить</string>
+    <string name="enter_name">Enter your name!</string>
+    <string name="error">Введите свое имя!</string>
+</resources>
